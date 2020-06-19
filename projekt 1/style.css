@@ -1,0 +1,16 @@
+.box1 {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    background-color: cadetblue;
+}
+
+.box2{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    background-color: aquamarine; 
+}
+
